@@ -1,3 +1,8 @@
+<p align="center">
+  नमस्ते (Namaste)
+
+</p>
+
 - 👋 Hi, I’m Ashribad Panda, an undergrad from NIT Rourkela.
 - 👀 I’m interested in Tech, Sports, Finance and Travel.
 - 🌱 I’m currently learning Full Stack Web-development & DSA.
