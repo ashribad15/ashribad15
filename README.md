@@ -1,6 +1,5 @@
 <p align="center">
   नमस्ते (Namaste)
-
 </p>
 
 - 👋 Hi, I’m Ashribad Panda, an undergrad from NIT Rourkela.
