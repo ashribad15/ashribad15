@@ -3,7 +3,7 @@
 </p>
 
 - 👋 Hi, I’m Ashribad Panda, an undergrad from NIT Rourkela.
-- 👀 I’m interested in Tech, Sports, Finance and Travel.
+- 👀 I’m interested in Tech, Sports, Finance, Travel and Wildlife.
 - 🌱 I’m currently learning Full Stack Web-development & DSA.
 - 📫 How to reach me ashribadpanda15@gmail.com
 - 😄 Pronouns: He/Him
